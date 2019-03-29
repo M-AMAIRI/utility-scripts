@@ -13,6 +13,4 @@ echo "INSTALL ANGULAR CLI "
 # Angular CLI helps us to create projects, generate application and library code, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.
 # It can be simply installed using npm.
 
-npm install -g @angular/cli
-
-
+sudo npm install -g @angular/cli
